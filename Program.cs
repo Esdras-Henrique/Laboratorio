@@ -8,7 +8,6 @@ namespace teste
         {
             Console.WriteLine("Hello World!");
         }
-        Error a1 = new Error(1);
         
     }
 }
